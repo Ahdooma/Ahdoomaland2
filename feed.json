@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ahdooma",
+    "description": "",
+    "home_page_url": "https://Ahdooma.github.io/Ahdoomaland2",
+    "feed_url": "https://Ahdooma.github.io/Ahdoomaland2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ahdooma"
+    },
+    "items": [
+        {
+            "id": "https://Ahdooma.github.io/Ahdoomaland2/work/lucent/",
+            "url": "https://Ahdooma.github.io/Ahdoomaland2/work/lucent/",
+            "title": "Lucent",
+            "summary": "Mission We aim to make driving... A clutter free driving experience that is comfortable and intuitive. To provide essentials for all users to have an easily accessible driving experience.",
+            "content_html": "<h1>Mission</h1>\n<h2>We aim to make driving...</h2>\n<p>A clutter free driving experience that is comfortable and intuitive. To provide essentials for all users to have an easily accessible driving experience.</p>",
+            "image": "https://Ahdooma.github.io/Ahdoomaland2/media/posts/1/Lucent-thumbnail.jpg",
+            "author": {
+                "name": "Ahdooma"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-12T17:00:22-08:00",
+            "date_modified": "2026-11-12T17:14:53-08:00"
+        }
+    ]
+}

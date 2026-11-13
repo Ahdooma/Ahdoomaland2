@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://Ahdooma.github.io/Ahdoomaland2/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://Ahdooma.github.io/Ahdoomaland2/</loc>
+</url>
+<url>
+<loc>https://Ahdooma.github.io/Ahdoomaland2/work/lucent/</loc>
+<lastmod>2026-11-12T17:14:53-08:00</lastmod>
+<image:image>
+<image:loc>https://Ahdooma.github.io/Ahdoomaland2/media/posts/1/Lucent-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://Ahdooma.github.io/Ahdoomaland2/about/</loc>
+<lastmod>2026-11-12T17:09:33-08:00</lastmod>
+<image:image>
+<image:loc>https://Ahdooma.github.io/Ahdoomaland2/media/posts/3/Angel-8-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

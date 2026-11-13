@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ahdooma</title>
+    <link href="https://Ahdooma.github.io/Ahdoomaland2/feed.xml" rel="self" />
+    <link href="https://Ahdooma.github.io/Ahdoomaland2" />
+    <updated>2026-11-12T17:14:53-08:00</updated>
+    <author>
+        <name>Ahdooma</name>
+    </author>
+    <id>https://Ahdooma.github.io/Ahdoomaland2</id>
+
+    <entry>
+        <title>Lucent</title>
+        <author>
+            <name>Ahdooma</name>
+        </author>
+        <link href="https://Ahdooma.github.io/Ahdoomaland2/work/lucent/"/>
+        <id>https://Ahdooma.github.io/Ahdoomaland2/work/lucent/</id>
+        <media:content url="https://Ahdooma.github.io/Ahdoomaland2/media/posts/1/Lucent-thumbnail.jpg" medium="image" />
+
+        <updated>2026-11-12T17:00:22-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://Ahdooma.github.io/Ahdoomaland2/media/posts/1/Lucent-thumbnail.jpg" alt="" />
+                    Mission We aim to make driving... A clutter free driving experience that is comfortable and intuitive. To provide essentials for all users to have an easily accessible driving experience.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Ahdooma.github.io/Ahdoomaland2/media/posts/1/Lucent-thumbnail.jpg" class="type:primaryImage" alt="" /></p>
+                <h1>Mission</h1>
+<h2>We aim to make driving...</h2>
+<p>A clutter free driving experience that is comfortable and intuitive. To provide essentials for all users to have an easily accessible driving experience.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
